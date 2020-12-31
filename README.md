@@ -1,4 +1,4 @@
-
+![euminhaspaixoes](https://user-images.githubusercontent.com/62266426/103392098-f9e8e000-4afa-11eb-87db-ad4fbec8c505.png)
 <h2>Oi, Eu sou o Diego! :D</h2>
 
 Sou estudante de Análise de Desenvolvimento de Sistemas {frontend}, e aqui irei colocar meu 'PRIMEIRO PROJETO' como Desenvolvedor Web. Aqui vou colocar um pouco sobre minha vida, sobre minha carreira professional e também estudantil, entre algumas outras coisas.
