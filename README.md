@@ -1,4 +1,4 @@
-![Uploading euminhaspaixoes.png]
+![](/src/C:\Users\diego\meusite\imagens\euminhaspaixoes.png)
 
 <h2>Oi, Eu sou o Diego! :D</h2>
 
