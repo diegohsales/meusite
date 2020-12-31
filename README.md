@@ -1,4 +1,9 @@
-![euminhaspaixoes](https://user-images.githubusercontent.com/62266426/103392098-f9e8e000-4afa-11eb-87db-ad4fbec8c505.png)
+![euhome](https://user-images.githubusercontent.com/62266426/103392136-33b9e680-4afb-11eb-8c37-4f8913ebcb2a.png)
+![euindex](https://user-images.githubusercontent.com/62266426/103392137-34527d00-4afb-11eb-81b8-e3535c97de84.png)
+![euminhaspaixoes](https://user-images.githubusercontent.com/62266426/103392138-34eb1380-4afb-11eb-8a8d-5a09998e0301.png)
+![euprojetos](https://user-images.githubusercontent.com/62266426/103392139-34eb1380-4afb-11eb-8363-00dd6517a77b.png)
+
+
 <h2>Oi, Eu sou o Diego! :D</h2>
 
 Sou estudante de Análise de Desenvolvimento de Sistemas {frontend}, e aqui irei colocar meu 'PRIMEIRO PROJETO' como Desenvolvedor Web. Aqui vou colocar um pouco sobre minha vida, sobre minha carreira professional e também estudantil, entre algumas outras coisas.
